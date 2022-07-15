@@ -46,3 +46,7 @@ body{
 .header-content-left h1, .header-content-left p {
     margin: 0%;
 }
+.header button {
+    width: 100px;
+    padding: 5px;
+}
