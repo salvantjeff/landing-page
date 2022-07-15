@@ -6,3 +6,9 @@ body{
     flex-flow: column nowrap;
     height: 100vh;
 }
+.header {
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 10px;
+    background-color: aqua;
+}
