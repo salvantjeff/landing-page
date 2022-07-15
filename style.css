@@ -10,8 +10,9 @@ body{
     display: flex;
     flex-flow: column nowrap;
     gap: 10px;
-    background-color: aqua;
+    background-color: #252422;
     padding: 20px 300px 100px 300px;
+    color: white;
 }
 .header-nav {
     display: flex;
