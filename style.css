@@ -43,3 +43,6 @@ body{
     max-width: 300px;
     height: auto;
 }
+.header-content-left h1, .header-content-left p {
+    margin: 0%;
+}
