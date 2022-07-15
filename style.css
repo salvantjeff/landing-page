@@ -9,7 +9,7 @@ body{
 .header {
     display: flex;
     flex-flow: column nowrap;
-    gap: 10px;
+    gap: 100px;
     background-color: #252422;
     padding: 20px 300px 100px 300px;
     color: white;
