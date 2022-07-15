@@ -12,3 +12,9 @@ body{
     gap: 10px;
     background-color: aqua;
 }
+.header-nav {
+    display: flex;
+}
+.header-content {
+    display: flex;
+}
