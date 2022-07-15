@@ -35,6 +35,7 @@ body{
     display: flex;
     flex-flow: column nowrap;
     gap: 10px;
+    max-width: 300px;
 }
 .header-content-right img {
     max-width: 300px;
