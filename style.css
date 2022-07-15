@@ -18,6 +18,9 @@ body{
     background-color: pink;
     align-items: center;
 }
+.header-nav p {
+    margin: 0%;
+}
 .header-nav ul {
     display: flex;
     margin: 0%;
