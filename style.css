@@ -17,7 +17,7 @@ body{
 .header-nav {
     display: flex;
     justify-content: space-between;
-    background-color: pink;
+   
     align-items: center;
 }
 .header-nav p {
@@ -34,7 +34,7 @@ body{
     display: flex;
     justify-content: center;
     gap: 20px;
-    background-color: pink;
+   
 }
 .header-content-left {
     display: flex;
