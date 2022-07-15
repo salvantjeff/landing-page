@@ -11,6 +11,7 @@ body{
     flex-flow: column nowrap;
     gap: 10px;
     background-color: aqua;
+    padding: 20px 300px 100px 300px;
 }
 .header-nav {
     display: flex;
