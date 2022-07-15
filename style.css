@@ -45,6 +45,7 @@ body{
 .header-content-right img {
     max-width: 300px;
     height: auto;
+    border: 5px solid pink;
 }
 .header-content-left h1, .header-content-left p {
     margin: 0%;
