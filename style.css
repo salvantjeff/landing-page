@@ -29,6 +29,8 @@ body{
 }
 .header-content {
     display: flex;
+    justify-content: center;
+    gap: 20px;
     background-color: pink;
 }
 .header-content-left {
