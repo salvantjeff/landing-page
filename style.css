@@ -15,12 +15,17 @@ body{
 }
 .header {
     display: flex;
+    justify-content: center;
+    background-color: #252422;
+    padding: 1rem 4rem;
+    color: white;
+    padding-bottom: 5rem; 
+}
+.header-wrapper {
+    display: flex;
     flex-flow: column nowrap;
     gap: 5rem;
-    background-color: #252422;
-    padding: 1rem 5rem;
-    color: white;
-    padding-bottom: 5rem;
+    max-width: 100%;
 }
 .header-nav {
     display: flex;
@@ -85,6 +90,8 @@ body{
     display: flex;
     flex-flow: column;
     justify-content: center;
+    max-width: 20rem;
+ 
 }
 .top-content {
     display: flex;
