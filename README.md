@@ -2,4 +2,7 @@
 
 ## [Live Demo](https://salvantjeff.github.io/landing-page/)
 
-Create an entire webpage!
+![landing page](/img/landing-page-screen-shot.png)
+
+## Introduction
+Purpose of project is to get intro to creating an entire webpage!
